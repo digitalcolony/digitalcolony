@@ -2,8 +2,6 @@
 
 My name is Michael and this is my first attempt at the GitHub profile page. 
 
-🌱 I’m currently learning Svelte/Sapper and Blazor.
-
 📫 How to reach me: digitalcolony@gmail.com
 
 You can view my projects on my [GitPages profile page](https://digitalcolony.github.io/).
