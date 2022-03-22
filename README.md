@@ -7,6 +7,7 @@ Welcome to my glorious GitHub Profile. 😎
 - 🌳 I live in Seattle, Washington.
 - ☕ My website [INeedCoffee.com](https://ineedcoffee.com) has been online since April 1999.
 - 💪🏼 My personal blog has over 1,600 posts. Many related to fitness and nutrition.
+- 🍎 I have a Duolingo streak of over 2,200 days.
 - 💻 View all my web projects on my: [GitPages profile page](https://digitalcolony.github.io/)
 
 ## Languages and Tools:
@@ -40,6 +41,7 @@ Welcome to my glorious GitHub Profile. 😎
 ### Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [My 2022 Fitness Plan](https://criticalmas.org/2022/03/my-2022-fitness-plan/)
 - [Grain Free and Dairy Free Almond Butter Cookies Recipe](https://criticalmas.org/2022/03/grain-free-and-dairy-free-almond-butter-cookies-recipe/)
 - [The Environmental Contaminant Theory of Obesity](https://criticalmas.org/2022/03/the-environmental-contaminant-theory-of-obesity/)
