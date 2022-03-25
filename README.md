@@ -47,7 +47,6 @@ Welcome to my glorious GitHub Profile. 😎
 ### Blog Posts 📝
 
 <!-- BLOG-POST-LIST:START -->
-
 - [My 2022 Fitness Plan](https://criticalmas.org/2022/03/my-2022-fitness-plan/)
 - [Grain Free and Dairy Free Almond Butter Cookies Recipe](https://criticalmas.org/2022/03/grain-free-and-dairy-free-almond-butter-cookies-recipe/)
 - [The Environmental Contaminant Theory of Obesity](https://criticalmas.org/2022/03/the-environmental-contaminant-theory-of-obesity/)
