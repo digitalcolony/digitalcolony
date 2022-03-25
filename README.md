@@ -10,7 +10,7 @@ Welcome to my glorious GitHub Profile. 😎
 - 🍎 I have a Duolingo streak of over 2,200 days.
 - 💻 View all my web projects on my: [GitPages profile page](https://digitalcolony.github.io/)
 
-## Languages and Tools:
+---
 
 [<img align="left" alt="Visual Studio Code" title="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](#)
 
@@ -38,7 +38,13 @@ Welcome to my glorious GitHub Profile. 😎
 
 ...plus VB.NET
 
-### Blog Posts
+---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=digitalcolony&show_icons=true&theme=dracula&count_private=true)
+
+---
+
+### Blog Posts 📝
 
 <!-- BLOG-POST-LIST:START -->
 
