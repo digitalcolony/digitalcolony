@@ -7,7 +7,7 @@ Welcome to my glorious GitHub Profile. 😎
 - 🌳 I live in Seattle, Washington.
 - ☕ My website [INeedCoffee.com](https://ineedcoffee.com) has been online since April 1999.
 - 💪🏼 My personal blog has over 1,600 posts. Many related to fitness and nutrition.
-- 🍎 I have a Duolingo streak of over 2,200 days.
+- 🍎 I have a Duolingo streak of over 2,300 days.
 - 💻 View all my web projects on my: [GitPages profile page](https://digitalcolony.github.io/)
 
 ---
