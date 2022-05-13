@@ -8,6 +8,7 @@ Welcome to my glorious GitHub Profile. 😎
 - ☕ My website [INeedCoffee.com](https://ineedcoffee.com) has been online since April 1999.
 - 💪🏼 My personal blog has over 1,600 posts. Many related to fitness and nutrition.
 - 🍎 I have a Duolingo streak of over 2,300 days.
+- 🥕 Making fermented foods such as kimchi and yogurt is a hobby of mine.
 - 💻 View all my web projects on my: [GitPages profile page](https://digitalcolony.github.io/)
 
 ---
@@ -47,6 +48,7 @@ Welcome to my glorious GitHub Profile. 😎
 ### Blog Posts 📝
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Cold Showers DO Get Easier](https://criticalmas.org/2022/04/cold-showers-do-get-easier/)
 - [My Grass-Fed Beef Lipid Level Experiment &lpar;n=1&rpar;](https://criticalmas.org/2022/03/my-grass-fed-beef-lipid-level-experiment-n1/)
 - [My 2022 Fitness Plan](https://criticalmas.org/2022/03/my-2022-fitness-plan/)
