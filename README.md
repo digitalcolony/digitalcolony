@@ -48,7 +48,6 @@ Welcome to my glorious GitHub Profile. 😎
 ### Blog Posts 📝
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Cold Showers DO Get Easier](https://criticalmas.org/2022/04/cold-showers-do-get-easier/)
 - [My Grass-Fed Beef Lipid Level Experiment &lpar;n=1&rpar;](https://criticalmas.org/2022/03/my-grass-fed-beef-lipid-level-experiment-n1/)
 - [My 2022 Fitness Plan](https://criticalmas.org/2022/03/my-2022-fitness-plan/)
