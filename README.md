@@ -48,9 +48,9 @@ Welcome to my glorious GitHub Profile. 😎
 ### Blog Posts 📝
 
 <!-- BLOG-POST-LIST:START -->
+- [Rejecting Wearables](https://criticalmas.org/2022/07/rejecting-wearables/)
 - [Latest Web Projects](https://criticalmas.org/2022/06/latest-web-projects/)
 - [Dude, What Happened to My Gym?](https://criticalmas.org/2022/05/dude-what-happened-to-my-gym/)
 - [Cold Showers DO Get Easier](https://criticalmas.org/2022/04/cold-showers-do-get-easier/)
 - [My Grass-Fed Beef Lipid Level Experiment &lpar;n=1&rpar;](https://criticalmas.org/2022/03/my-grass-fed-beef-lipid-level-experiment-n1/)
-- [My 2022 Fitness Plan](https://criticalmas.org/2022/03/my-2022-fitness-plan/)
 <!-- BLOG-POST-LIST:END -->
