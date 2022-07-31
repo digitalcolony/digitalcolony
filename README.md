@@ -49,10 +49,9 @@ Welcome to my glorious GitHub Profile. 😎
 ### Blog Posts 📝
 
 <!-- BLOG-POST-LIST:START -->
-
-- [Cold Showers DO Get Easier](https://criticalmas.org/2022/04/cold-showers-do-get-easier/)
-- [My Grass-Fed Beef Lipid Level Experiment &lpar;n=1&rpar;](https://criticalmas.org/2022/03/my-grass-fed-beef-lipid-level-experiment-n1/)
-- [My 2022 Fitness Plan](https://criticalmas.org/2022/03/my-2022-fitness-plan/)
-- [Grain Free and Dairy Free Almond Butter Cookies Recipe](https://criticalmas.org/2022/03/grain-free-and-dairy-free-almond-butter-cookies-recipe/)
-- [The Environmental Contaminant Theory of Obesity](https://criticalmas.org/2022/03/the-environmental-contaminant-theory-of-obesity/)
+- [Seed Oils, Blood Donations, and Body Temperature](https://criticalmas.org/2022/07/seed-oils-blood-donations-and-body-temperature/)
+- [Whispers of Food Shortages](https://criticalmas.org/2022/07/whispers-of-food-shortages/)
+- [Rejecting Wearables](https://criticalmas.org/2022/07/rejecting-wearables/)
+- [Latest Web Projects](https://criticalmas.org/2022/06/latest-web-projects/)
+- [Dude, What Happened to My Gym?](https://criticalmas.org/2022/05/dude-what-happened-to-my-gym/)
 <!-- BLOG-POST-LIST:END -->
