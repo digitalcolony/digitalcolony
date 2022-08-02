@@ -49,9 +49,9 @@ Welcome to my glorious GitHub Profile. 😎
 ### Blog Posts 📝
 
 <!-- BLOG-POST-LIST:START -->
+- [4 Ways Air Pollution is Increasing Obesity](https://criticalmas.org/2022/08/4-ways-air-pollution-is-increasing-obesity/)
 - [Seed Oils, Blood Donations, and Body Temperature](https://criticalmas.org/2022/07/seed-oils-blood-donations-and-body-temperature/)
 - [Whispers of Food Shortages](https://criticalmas.org/2022/07/whispers-of-food-shortages/)
 - [Rejecting Wearables](https://criticalmas.org/2022/07/rejecting-wearables/)
 - [Latest Web Projects](https://criticalmas.org/2022/06/latest-web-projects/)
-- [Dude, What Happened to My Gym?](https://criticalmas.org/2022/05/dude-what-happened-to-my-gym/)
 <!-- BLOG-POST-LIST:END -->
