@@ -49,9 +49,9 @@ Welcome to my glorious GitHub Profile. 😎
 ### Blog Posts 📝
 
 <!-- BLOG-POST-LIST:START -->
+- [Be Interested. Be Safe. Be Consistent.](https://criticalmas.org/2022/11/be-interested-be-safe-be-consistent/)
 - [Rick Rubin Did NOT Get Fat From Carbs](https://criticalmas.org/2022/11/rick-rubin-did-not-get-fat-from-carbs/)
 - [The Benefits of a Higher Body Temperature](https://criticalmas.org/2022/09/the-benefits-of-a-higher-body-temperature/)
 - [The Seed Oil Debate Revisited](https://criticalmas.org/2022/09/the-seed-oil-debate-revisited/)
 - [The News is Making You Sick](https://criticalmas.org/2022/08/the-news-is-making-you-sick/)
-- [4 Ways Air Pollution is Increasing Obesity](https://criticalmas.org/2022/08/4-ways-air-pollution-is-increasing-obesity/)
 <!-- BLOG-POST-LIST:END -->
