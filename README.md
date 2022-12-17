@@ -49,9 +49,9 @@ Welcome to my glorious GitHub Profile. 😎
 ### Blog Posts 📝
 
 <!-- BLOG-POST-LIST:START -->
+- [Ray Peat Died. Now What?](https://criticalmas.org/2022/12/ray-peat-died-now-what/)
 - [3 Fitness Stories](https://criticalmas.org/2022/11/3-fitness-stories/)
 - [Approaching Weight Lifting Like An Investor](https://criticalmas.org/2022/11/approaching-weight-lifting-like-an-investor/)
 - [Be Interested. Be Safe. Be Consistent.](https://criticalmas.org/2022/11/be-interested-be-safe-be-consistent/)
 - [Rick Rubin Did NOT Get Fat From Carbs](https://criticalmas.org/2022/11/rick-rubin-did-not-get-fat-from-carbs/)
-- [The Benefits of a Higher Body Temperature](https://criticalmas.org/2022/09/the-benefits-of-a-higher-body-temperature/)
 <!-- BLOG-POST-LIST:END -->
