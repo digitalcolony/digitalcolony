@@ -49,9 +49,9 @@ Welcome to my glorious GitHub Profile. 😎
 ### Blog Posts 📝
 
 <!-- BLOG-POST-LIST:START -->
+- [My Fitness Results 2022](https://criticalmas.org/2022/12/my-fitness-results-2022/)
 - [Another Solution For Numb Feet and Toes](https://criticalmas.org/2022/12/another-solution-for-numb-feet-and-toes/)
 - [Body Weight Wisdom I Heard 20 Years Ago](https://criticalmas.org/2022/12/body-weight-wisdom-i-heard-20-years-ago/)
 - [Ray Peat Died. Now What?](https://criticalmas.org/2022/12/ray-peat-died-now-what/)
 - [3 Fitness Stories](https://criticalmas.org/2022/11/3-fitness-stories/)
-- [Approaching Weight Lifting Like An Investor](https://criticalmas.org/2022/11/approaching-weight-lifting-like-an-investor/)
 <!-- BLOG-POST-LIST:END -->
