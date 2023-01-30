@@ -49,9 +49,9 @@ Welcome to my glorious GitHub Profile. 😎
 ### Blog Posts 📝
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Achieve Long Term Success on the Potato Diet](https://criticalmas.org/2023/01/how-to-achieve-long-term-success-on-the-potato-diet/)
 - [Mostly Weight Stable Regardless of Diet Part 2](https://criticalmas.org/2023/01/mostly-weight-stable-regardless-of-diet-part-2/)
 - [Donating My Hair](https://criticalmas.org/2023/01/donating-my-hair/)
 - [My Fitness Results 2022](https://criticalmas.org/2022/12/my-fitness-results-2022/)
 - [Another Solution For Numb Feet and Toes](https://criticalmas.org/2022/12/another-solution-for-numb-feet-and-toes/)
-- [Body Weight Wisdom I Heard 20 Years Ago](https://criticalmas.org/2022/12/body-weight-wisdom-i-heard-20-years-ago/)
 <!-- BLOG-POST-LIST:END -->
