@@ -49,9 +49,9 @@ Welcome to my glorious GitHub Profile. 😎
 ### Blog Posts 📝
 
 <!-- BLOG-POST-LIST:START -->
+- [Pick the Potato Diet Variation That Works Best For You](https://criticalmas.org/2023/03/pick-the-potato-diet-variation-that-works-best-for-you/)
 - [Night Satiety](https://criticalmas.org/2023/02/night-satiety/)
 - [How to Achieve Long Term Success on the Potato Diet](https://criticalmas.org/2023/01/how-to-achieve-long-term-success-on-the-potato-diet/)
 - [Mostly Weight Stable Regardless of Diet Part 2](https://criticalmas.org/2023/01/mostly-weight-stable-regardless-of-diet-part-2/)
 - [Donating My Hair](https://criticalmas.org/2023/01/donating-my-hair/)
-- [My Fitness Results 2022](https://criticalmas.org/2022/12/my-fitness-results-2022/)
 <!-- BLOG-POST-LIST:END -->
