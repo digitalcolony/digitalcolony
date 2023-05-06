@@ -49,9 +49,9 @@ Welcome to my glorious GitHub Profile. 😎
 ### Blog Posts 📝
 
 <!-- BLOG-POST-LIST:START -->
-- [Donating My Hair](https://criticalmas.org/2023/01/donating-my-hair/)
-- [My Fitness Results 2022](https://criticalmas.org/2022/12/my-fitness-results-2022/)
-- [Another Solution For Numb Feet and Toes](https://criticalmas.org/2022/12/another-solution-for-numb-feet-and-toes/)
-- [Body Weight Wisdom I Heard 20 Years Ago](https://criticalmas.org/2022/12/body-weight-wisdom-i-heard-20-years-ago/)
-- [Ray Peat Died. Now What?](https://criticalmas.org/2022/12/ray-peat-died-now-what/)
+- [More Protein and the Fasting Backlash Part 2](https://criticalmas.org/2023/04/more-protein-and-the-fasting-backlash-part-2/)
+- [More Protein and the Fasting Backlash](https://criticalmas.org/2023/04/more-protein-and-the-fasting-backlash/)
+- [Pick the Potato Diet Variation That Works Best For You](https://criticalmas.org/2023/03/pick-the-potato-diet-variation-that-works-best-for-you/)
+- [Night Satiety](https://criticalmas.org/2023/02/night-satiety/)
+- [How to Achieve Long Term Success on the Potato Diet](https://criticalmas.org/2023/01/how-to-achieve-long-term-success-on-the-potato-diet/)
 <!-- BLOG-POST-LIST:END -->
