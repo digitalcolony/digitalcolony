@@ -49,9 +49,9 @@ Welcome to my glorious GitHub Profile. 😎
 ### Blog Posts 📝
 
 <!-- BLOG-POST-LIST:START -->
+- [&lpar;Still&rpar; Not a PubMed Warrior](https://criticalmas.org/2023/07/still-not-a-pubmed-warrior/)
 - [What Obesity Paradox?](https://criticalmas.org/2023/06/what-obesity-paradox/)
 - [Exercise Induced Headaches – A Path Forward?](https://criticalmas.org/2023/06/exercise-induced-headaches-a-path-forward/)
 - [Perfect Posture Progress](https://criticalmas.org/2023/06/perfect-posture-progress/)
 - [Outlive by Peter Attia, MD Summarized](https://criticalmas.org/2023/05/outlive-by-peter-attia-md-summarized/)
-- [More Protein and the Fasting Backlash Part 2](https://criticalmas.org/2023/04/more-protein-and-the-fasting-backlash-part-2/)
 <!-- BLOG-POST-LIST:END -->
