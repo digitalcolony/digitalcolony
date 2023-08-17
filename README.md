@@ -49,9 +49,9 @@ Welcome to my glorious GitHub Profile. 😎
 ### Blog Posts 📝
 
 <!-- BLOG-POST-LIST:START -->
-- [More Protein and the Fasting Backlash Part 2](https://criticalmas.org/2023/04/more-protein-and-the-fasting-backlash-part-2/)
-- [More Protein and the Fasting Backlash](https://criticalmas.org/2023/04/more-protein-and-the-fasting-backlash/)
-- [Pick the Potato Diet Variation That Works Best For You](https://criticalmas.org/2023/03/pick-the-potato-diet-variation-that-works-best-for-you/)
-- [Night Satiety](https://criticalmas.org/2023/02/night-satiety/)
-- [How to Achieve Long Term Success on the Potato Diet](https://criticalmas.org/2023/01/how-to-achieve-long-term-success-on-the-potato-diet/)
+- [I Got a Hernia](https://criticalmas.org/2023/08/i-got-a-hernia/)
+- [&lpar;Still&rpar; Not a PubMed Warrior](https://criticalmas.org/2023/07/still-not-a-pubmed-warrior/)
+- [What Obesity Paradox?](https://criticalmas.org/2023/06/what-obesity-paradox/)
+- [Exercise Induced Headaches – A Path Forward?](https://criticalmas.org/2023/06/exercise-induced-headaches-a-path-forward/)
+- [Perfect Posture Progress](https://criticalmas.org/2023/06/perfect-posture-progress/)
 <!-- BLOG-POST-LIST:END -->
