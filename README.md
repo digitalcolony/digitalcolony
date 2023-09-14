@@ -49,9 +49,9 @@ Welcome to my glorious GitHub Profile. 😎
 ### Blog Posts 📝
 
 <!-- BLOG-POST-LIST:START -->
+- [What I Eat and What I Don’t Eat – 2023 Edition](https://criticalmas.org/2023/09/what-i-eat-and-what-i-dont-eat-2023-edition/)
 - [Eliminate Caffeine Withdrawal Headaches](https://criticalmas.org/2023/09/eliminate-caffeine-withdrawal-headaches/)
 - [My Ugly Protein Shake](https://criticalmas.org/2023/08/my-ugly-protein-shake/)
 - [I Got a Hernia](https://criticalmas.org/2023/08/i-got-a-hernia/)
 - [&lpar;Still&rpar; Not a PubMed Warrior](https://criticalmas.org/2023/07/still-not-a-pubmed-warrior/)
-- [What Obesity Paradox?](https://criticalmas.org/2023/06/what-obesity-paradox/)
 <!-- BLOG-POST-LIST:END -->
