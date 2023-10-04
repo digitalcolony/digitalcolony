@@ -49,9 +49,9 @@ Welcome to my glorious GitHub Profile. 😎
 ### Blog Posts 📝
 
 <!-- BLOG-POST-LIST:START -->
+- [Temperature and Appetite](https://criticalmas.org/2023/10/temperature-and-appetite/)
 - [Low Intensity, Low Volume Strength Training](https://criticalmas.org/2023/10/low-intensity-low-volume-strength-training/)
 - [On Pushups](https://criticalmas.org/2023/09/on-pushups/)
 - [What I Eat and What I Don’t Eat – 2023 Edition](https://criticalmas.org/2023/09/what-i-eat-and-what-i-dont-eat-2023-edition/)
 - [Eliminate Caffeine Withdrawal Headaches](https://criticalmas.org/2023/09/eliminate-caffeine-withdrawal-headaches/)
-- [My Ugly Protein Shake](https://criticalmas.org/2023/08/my-ugly-protein-shake/)
 <!-- BLOG-POST-LIST:END -->
