@@ -12,32 +12,6 @@ Welcome to my glorious GitHub Profile. 😎
 - 🌞 I'm a morning person. Most days I'm awake by 5 AM.
 - 💻 View all my web projects on my: [GitPages profile page](https://digitalcolony.github.io/)
 
-
-[<img align="left" alt="Visual Studio Code" title="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](#)
-
-[<img align="left" alt="Visual Studio" title="Visual Studio" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;" />](#)
-
-[<img align="left" alt="Sql Server" title="SQL Server" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" style="padding-right:10px;" />](#)
-
-[<img align="left" alt="Dot NET" title="DOT NET" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" style="padding-right:10px;" />](#)
-
-[<img align="left" alt="C#" title="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;" />](#)
-
-[<img align="left" alt="HTML5" title="HTML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](#)
-
-[<img align="left" alt="CSS3" title="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](#)
-
-[<img align="left" alt="JavaScript" title="Javascript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](#)
-
-[<img align="left" alt="React" title="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />](#)
-
-[<img align="left" alt="Node.js" title="Node" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />](#)
-
-[<img align="left" alt="WordPress" title="WordPress" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" style="padding-right:10px;" />](#)
-
-...plus VB.NET
----
-
 ### Blog Posts 📝
 
 <!-- BLOG-POST-LIST:START -->
