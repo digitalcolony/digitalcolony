@@ -39,11 +39,6 @@ Welcome to my glorious GitHub Profile. 😎
 [<img align="left" alt="WordPress" title="WordPress" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" style="padding-right:10px;" />](#)
 
 ...plus VB.NET
-
-<br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=digitalcolony&show_icons=true&theme=dracula&count_private=true)
-
 ---
 
 ### Blog Posts 📝
