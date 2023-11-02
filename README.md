@@ -6,13 +6,12 @@ Welcome to my glorious GitHub Profile. 😎
 
 - 🌳 I live in Seattle, Washington.
 - ☕ My website [INeedCoffee.com](https://ineedcoffee.com) has been online since April 1999.
-- 💪🏼 My personal blog has over 1,600 posts. Many related to fitness and nutrition.
+- 💪🏼 My personal blog has over 1,600 posts. Many are related to fitness and nutrition.
 - 🍎 I have a Duolingo streak of over 2,800 days.
 - 🥕 Making fermented foods such as kimchi and yogurt is a hobby of mine.
 - 🌞 I'm a morning person. Most days I'm awake by 5 AM.
 - 💻 View all my web projects on my: [GitPages profile page](https://digitalcolony.github.io/)
 
----
 
 [<img align="left" alt="Visual Studio Code" title="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />](#)
 
