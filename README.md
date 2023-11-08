@@ -15,9 +15,9 @@ Welcome to my glorious GitHub Profile. 😎
 ### Blog Posts 📝
 
 <!-- BLOG-POST-LIST:START -->
+- [Keto and Carnivore Diets Were Always a No For Me](https://criticalmas.org/2023/11/keto-and-carnivore-diets-were-always-a-no-for-me/)
 - [Checking in on the Carb Haters](https://criticalmas.org/2023/10/checking-in-on-the-carb-haters/)
 - [Temperature and Appetite](https://criticalmas.org/2023/10/temperature-and-appetite/)
 - [Low Intensity, Low Volume Strength Training](https://criticalmas.org/2023/10/low-intensity-low-volume-strength-training/)
 - [On Pushups](https://criticalmas.org/2023/09/on-pushups/)
-- [What I Eat and What I Don’t Eat – 2023 Edition](https://criticalmas.org/2023/09/what-i-eat-and-what-i-dont-eat-2023-edition/)
 <!-- BLOG-POST-LIST:END -->
