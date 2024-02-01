@@ -15,9 +15,9 @@ Welcome to my glorious GitHub Profile. 😎
 ### Blog Posts 📝
 
 <!-- BLOG-POST-LIST:START -->
+- [On Ab Training](https://criticalmas.org/2024/02/on-ab-training/)
 - [Ponderous Fitness Content](https://criticalmas.org/2024/01/ponderous-fitness-content/)
 - [Is Peter Attia Overhyping VO2 Max?](https://criticalmas.org/2024/01/is-peter-attia-overhyping-vo2-max/)
 - [Get Your Own Blood Work](https://criticalmas.org/2024/01/get-your-own-blood-work/)
 - [Are Martial Arts the new CrossFit?](https://criticalmas.org/2023/12/are-martial-arts-the-new-crossfit/)
-- [Seed Oils vs Saturated Fat – Picking a Side](https://criticalmas.org/2023/12/seed-oils-vs-saturated-fat-picking-a-side/)
 <!-- BLOG-POST-LIST:END -->
