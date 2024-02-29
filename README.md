@@ -15,9 +15,9 @@ Welcome to my glorious GitHub Profile. 😎
 ### Blog Posts 📝
 
 <!-- BLOG-POST-LIST:START -->
+- [Have I Found My Headache Cure?](https://criticalmas.org/2024/02/have-i-found-my-headache-cure/)
 - [Some Broken Link Housekeeping](https://criticalmas.org/2024/02/some-broken-link-housekeeping/)
 - [On Ab Training](https://criticalmas.org/2024/02/on-ab-training/)
 - [Ponderous Fitness Content](https://criticalmas.org/2024/01/ponderous-fitness-content/)
 - [Is Peter Attia Overhyping VO2 Max?](https://criticalmas.org/2024/01/is-peter-attia-overhyping-vo2-max/)
-- [Get Your Own Blood Work](https://criticalmas.org/2024/01/get-your-own-blood-work/)
 <!-- BLOG-POST-LIST:END -->
