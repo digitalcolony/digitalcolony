@@ -15,9 +15,9 @@ Welcome to my glorious GitHub Profile. 😎
 ### Blog Posts 📝
 
 <!-- BLOG-POST-LIST:START -->
+- [Tales From the Glitter Gym – The Old Guy](https://criticalmas.org/2024/03/tales-from-the-glitter-gym-the-old-guy/)
 - [Have I Found My Headache Cure?](https://criticalmas.org/2024/02/have-i-found-my-headache-cure/)
 - [Some Broken Link Housekeeping](https://criticalmas.org/2024/02/some-broken-link-housekeeping/)
 - [On Ab Training](https://criticalmas.org/2024/02/on-ab-training/)
 - [Ponderous Fitness Content](https://criticalmas.org/2024/01/ponderous-fitness-content/)
-- [Is Peter Attia Overhyping VO2 Max?](https://criticalmas.org/2024/01/is-peter-attia-overhyping-vo2-max/)
 <!-- BLOG-POST-LIST:END -->
