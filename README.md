@@ -15,7 +15,6 @@ Welcome to my glorious GitHub Profile. 😎
 ### Blog Posts 📝
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Tales From the Glitter Gym – The Old Guy](https://criticalmas.org/2024/03/tales-from-the-glitter-gym-the-old-guy/)
 - [Have I Found My Headache Cure?](https://criticalmas.org/2024/02/have-i-found-my-headache-cure/)
 - [Some Broken Link Housekeeping](https://criticalmas.org/2024/02/some-broken-link-housekeeping/)
