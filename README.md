@@ -15,9 +15,9 @@ Welcome to my glorious GitHub Profile. 😎
 ### Blog Posts 📝
 
 <!-- BLOG-POST-LIST:START -->
+- [The Potato and Cabbage Hack](https://criticalmas.org/2024/04/the-potato-and-cabbage-hack/)
 - [What’s Inside My Pantry and Fridge?](https://criticalmas.org/2024/03/whats-inside-my-pantry-and-fridge/)
 - [Vegans vs Weston Price](https://criticalmas.org/2024/03/vegans-vs-weston-price/)
 - [What’s a Glitter Gym?](https://criticalmas.org/2024/03/whats-a-glitter-gym/)
 - [Tales From the Glitter Gym – The Old Guy](https://criticalmas.org/2024/03/tales-from-the-glitter-gym-the-old-guy/)
-- [Have I Found My Headache Cure?](https://criticalmas.org/2024/02/have-i-found-my-headache-cure/)
 <!-- BLOG-POST-LIST:END -->
