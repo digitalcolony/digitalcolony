@@ -15,9 +15,9 @@ Welcome to my glorious GitHub Profile. 😎
 ### Blog Posts 📝
 
 <!-- BLOG-POST-LIST:START -->
+- [Are Glitter Gyms Are No Longer Glitter?](https://criticalmas.org/2024/04/are-glitter-gyms-are-no-longer-glitter/)
 - [The Return of Hillfit](https://criticalmas.org/2024/04/the-return-of-hillfit/)
 - [The Potato and Cabbage Hack](https://criticalmas.org/2024/04/the-potato-and-cabbage-hack/)
 - [What’s Inside My Pantry and Fridge?](https://criticalmas.org/2024/03/whats-inside-my-pantry-and-fridge/)
 - [Vegans vs Weston Price](https://criticalmas.org/2024/03/vegans-vs-weston-price/)
-- [What’s a Glitter Gym?](https://criticalmas.org/2024/03/whats-a-glitter-gym/)
 <!-- BLOG-POST-LIST:END -->
