@@ -15,9 +15,9 @@ Welcome to my glorious GitHub Profile. 😎
 ### Blog Posts 📝
 
 <!-- BLOG-POST-LIST:START -->
+- [Dieting, Seed Oils, Microplastics](https://criticalmas.org/2024/05/dieting-seed-oils-microplastics/)
 - [The Appetite of Exercise](https://criticalmas.org/2024/05/the-appetite-of-exercise/)
 - [Are Glitter Gyms No Longer Glitter?](https://criticalmas.org/2024/04/are-glitter-gyms-are-no-longer-glitter/)
 - [The Return of Hillfit](https://criticalmas.org/2024/04/the-return-of-hillfit/)
 - [The Potato and Cabbage Hack](https://criticalmas.org/2024/04/the-potato-and-cabbage-hack/)
-- [What’s Inside My Pantry and Fridge?](https://criticalmas.org/2024/03/whats-inside-my-pantry-and-fridge/)
 <!-- BLOG-POST-LIST:END -->
