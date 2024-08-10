@@ -15,9 +15,9 @@ Welcome to my glorious GitHub Profile. 😎
 ### Blog Posts 📝
 
 <!-- BLOG-POST-LIST:START -->
+- [Body Temps on Severe Seed Oil Restriction &lpar;n=1&rpar;](https://criticalmas.org/2024/08/body-temps-on-severe-seed-oil-restriction-n1/)
 - [Tales From the Glitter Gym – The Deal](https://criticalmas.org/2024/08/tales-from-the-glitter-gym-the-deal/)
 - [Donate Blood](https://criticalmas.org/2024/07/donate-blood/)
 - [Nutritional Persuasion](https://criticalmas.org/2024/06/nutritional-persuasion/)
 - [Food Prep is the Key to Being Lean](https://criticalmas.org/2024/06/food-prep-is-the-key-to-being-lean/)
-- [New Gym, Old Mistakes](https://criticalmas.org/2024/06/new-gym-old-mistakes/)
 <!-- BLOG-POST-LIST:END -->
