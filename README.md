@@ -15,9 +15,9 @@ Welcome to my glorious GitHub Profile. 😎
 ### Blog Posts 📝
 
 <!-- BLOG-POST-LIST:START -->
+- [Stop-Loss Potato Hacking](https://criticalmas.org/2024/09/stop-loss-potato-hacking/)
 - [The Economics of “Messy” Gyms](https://criticalmas.org/2024/08/the-economics-of-messy-gyms/)
 - [Body Temps on Severe Seed Oil Restriction &lpar;n=1&rpar;](https://criticalmas.org/2024/08/body-temps-on-severe-seed-oil-restriction-n1/)
 - [Tales From the Glitter Gym – The Deal](https://criticalmas.org/2024/08/tales-from-the-glitter-gym-the-deal/)
 - [Donate Blood](https://criticalmas.org/2024/07/donate-blood/)
-- [Nutritional Persuasion](https://criticalmas.org/2024/06/nutritional-persuasion/)
 <!-- BLOG-POST-LIST:END -->
