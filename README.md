@@ -15,9 +15,9 @@ Welcome to my glorious GitHub Profile. 😎
 ### Blog Posts 📝
 
 <!-- BLOG-POST-LIST:START -->
+- [2024 Fitness Results](https://criticalmas.org/2025/01/2024-fitness-results/)
 - [What Huberman Missed on Microplastics](https://criticalmas.org/2024/12/what-huberman-missed-on-microplastics/)
 - [What I Dislike About High Intensity Training](https://criticalmas.org/2024/11/what-i-dislike-about-high-intensity-training/)
 - [My Gym Code of Conduct](https://criticalmas.org/2024/11/my-gym-code-of-conduct/)
 - [The End of Craving](https://criticalmas.org/2024/10/the-end-of-craving/)
-- [Does America Have a Toxic Food Problem?](https://criticalmas.org/2024/10/does-america-have-a-toxic-food-problem/)
 <!-- BLOG-POST-LIST:END -->
