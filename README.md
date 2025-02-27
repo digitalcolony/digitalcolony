@@ -6,8 +6,8 @@ Welcome to my glorious GitHub Profile. 😎
 
 - 🌳 I live in Seattle, Washington.
 - ☕ My website [INeedCoffee.com](https://ineedcoffee.com) has been online since April 1999.
-- 💪🏼 My personal blog has over 1,600 posts. Many are related to fitness and nutrition.
-- 🍎 I have a Duolingo streak of over 3,000 days.
+- 💪🏼 My personal blog has over 1,700 posts. Many are related to fitness and nutrition.
+- 🍎 I have a Duolingo streak of over 3,300 days.
 - 🥕 Making fermented foods such as kimchi and yogurt is a hobby of mine.
 - 🌞 I'm a morning person. Most days I'm awake by 5 AM.
 - 💻 View all my web projects on my: [GitPages profile page](https://digitalcolony.github.io/)
@@ -15,6 +15,7 @@ Welcome to my glorious GitHub Profile. 😎
 ### Blog Posts 📝
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Tracking My Meals for a Month](https://criticalmas.org/2025/02/tracking-my-meals-for-a-month/)
 - [Optimal Omega-3 Levels &lpar;No Fish Oil Needed&rpar;](https://criticalmas.org/2025/02/optimal-omega-3-levels-no-fish-oil-needed/)
 - [2024 Fitness Results](https://criticalmas.org/2025/01/2024-fitness-results/)
