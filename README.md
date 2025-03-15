@@ -15,9 +15,9 @@ Welcome to my glorious GitHub Profile. 😎
 ### Blog Posts 📝
 
 <!-- BLOG-POST-LIST:START -->
+- [Cringe](https://criticalmas.org/2025/03/cringe/)
 - [Tracking My Meals for a Month](https://criticalmas.org/2025/02/tracking-my-meals-for-a-month/)
 - [Optimal Omega-3 Levels &lpar;No Fish Oil Needed&rpar;](https://criticalmas.org/2025/02/optimal-omega-3-levels-no-fish-oil-needed/)
 - [2024 Fitness Results](https://criticalmas.org/2025/01/2024-fitness-results/)
 - [What Huberman Missed on Microplastics](https://criticalmas.org/2024/12/what-huberman-missed-on-microplastics/)
-- [What I Dislike About High Intensity Training](https://criticalmas.org/2024/11/what-i-dislike-about-high-intensity-training/)
 <!-- BLOG-POST-LIST:END -->
