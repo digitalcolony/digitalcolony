@@ -15,9 +15,9 @@ Welcome to my glorious GitHub Profile. 😎
 ### Blog Posts 📝
 
 <!-- BLOG-POST-LIST:START -->
+- [Vibe Coding Fitness Calculators](https://criticalmas.org/2025/06/vibe-coding-fitness-calculators/)
 - [Thoughts on Cold Exposure](https://criticalmas.org/2025/06/thoughts-on-cold-exposure/)
 - [Archiving INeedCoffee](https://criticalmas.org/2025/05/archiving-ineedcoffee/)
 - [Bro-lifting in the NFL](https://criticalmas.org/2025/03/bro-lifting-in-the-nfl/)
 - [Cringe](https://criticalmas.org/2025/03/cringe/)
-- [Tracking My Meals for a Month](https://criticalmas.org/2025/02/tracking-my-meals-for-a-month/)
 <!-- BLOG-POST-LIST:END -->
